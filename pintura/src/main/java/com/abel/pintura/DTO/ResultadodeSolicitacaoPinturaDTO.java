@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class ResultadoDeOrcamento {
+public class ResultadodeSolicitacaoPinturaDTO {
 
     private double valor;
 }
